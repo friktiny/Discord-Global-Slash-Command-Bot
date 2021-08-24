@@ -26,5 +26,11 @@ A discord slash command made using javascript easy to setup and control
 - [Click Here](https://replit.com/@GamingDiwas/Discord-Global-Slash-Command-Bot)
 
 
-### Join My Server
+### Join support server
+
+
+
+ <a href="https://discord.gg/admin"><img src="http://invidget.switchblade.xyz/admin"/></a>
+
+
 
